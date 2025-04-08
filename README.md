@@ -1,4 +1,4 @@
-Sure! Below is a **professional and detailed `README.md`** for your project:  
+ 
 # **🎬 Netflix Navigator – An Exploration of Data to Navigate User Preferences**
 
 ---
